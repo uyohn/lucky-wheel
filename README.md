@@ -13,3 +13,6 @@ This is simple JS based lucky wheel, which you can easily embed into your own we
 - If you want ot play around with the demo: Set up script URL for *app.js* in *public/demo.html* at line no. 94
 
 - Log in to **Admin panel**: go to *yourdomain.com/admin* and log in with username: *admin* and password *admin1*. Here you can manage everything.
+
+
+# WARNING: there might be broken links, so just look around. Also you need to put in your DB credentials and so on...
